@@ -107,11 +107,6 @@
 
   #curiosidades li::marker {
     content: '🔍';
-  }
-
-  ul {
-
-  }
 
   #evolucao ul {
     flex-wrap: wrap;
